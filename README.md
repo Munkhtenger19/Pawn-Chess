@@ -1,4 +1,4 @@
-# Pawn chess game implemented with Java Swing and Java Awt
+# Pawn chess game implemented with Java Swing and Java AWT
 
 ## Game Description
 
